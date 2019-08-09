@@ -1,0 +1,1 @@
+GET /customers/:id HTTP/1.1

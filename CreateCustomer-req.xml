@@ -1,0 +1,8 @@
+POST /customers HTTP/1.1
+
+{
+  "name" : "Cornelius",
+  "email" : "cornelius1990@gmail.com",
+  "contact" : "+919000000000",
+  "notes": {}
+}

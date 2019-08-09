@@ -1,0 +1,11 @@
+HTTP/1.1 201 OK
+
+{
+  "id" : "cust_000000001",
+  "entity": "customer",
+  "name" : "cornelius",
+  "email" : "cornelius1990@gmail.com",
+  "contact" : "+919000000000",
+  "notes" : {},
+  "created_at ": 1234567890
+}
